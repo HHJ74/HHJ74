@@ -1,8 +1,13 @@
 # 👋 Hi, I'm JEONG HYE HYEON!
 
-💻 **I'm a developer passionate about:**  
-- Backend Development (Node.js, PostgreSQL, MongoDB)  
-- AI Service Engineering (Python, NLP)
+🌱 **I'm a developer passionate about:**  
+- Backend Development  
+- AI Service Engineering 
+
+💻 **stack:**  
+- React
+- Node.js, Python
+- PostgreSQL, MongoDB
 
 🚀 **Project:**  
 - Developed a fitness app 🏋️‍♂️  
