@@ -9,6 +9,6 @@
 - Developed a fitness app 🏋️‍♂️  
 
 📫 **How to reach me:**  
-- GitHub: [github.com/your-username](https://github.com/your-username)  
-- Email: your.email@example.com  
+- GitHub: [github.com/HHJ74](https://github.com/HHJ74)  
+- Email: gpgus0704@gmail.com  
 
