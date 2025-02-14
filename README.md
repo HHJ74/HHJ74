@@ -6,8 +6,8 @@
 
 💻 **stack:**  
 - React
-- Node.js, Python
-- PostgreSQL, MongoDB
+- Node.js, Python, Spring
+- PostgreSQL
 
 🚀 **Project:**  
 - Developed a fitness app 🏋️‍♂️  
