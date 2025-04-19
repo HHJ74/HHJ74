@@ -1,16 +1,17 @@
 # 👋 Hi, I'm JEONG HYE HYEON!
 
 🌱 **I'm a developer passionate about:**  
-- Backend Development  
-- AI Service Engineering 
+- Frontend Development  
+- Backend Development 
 
 💻 **stack:**  
-- React
-- Node.js, Python, Spring
+- React, React-native, Vue3
+- Node, Nest.js, Python, Spring Boot
 - PostgreSQL
 
 🚀 **Project:**  
-- Developed a fitness app 🏋️‍♂️  
+- Developed a fitness app, web 🏋️‍♂️
+- Made bar mobile menu
 
 📫 **How to reach me:**  
 - GitHub: [github.com/HHJ74](https://github.com/HHJ74)  
